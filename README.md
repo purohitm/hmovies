@@ -57,7 +57,6 @@ The React Movie App adheres to ethical principles in its design and functionalit
 
 The React Movie App is a modern, accessible, and ethical platform for exploring movies. It demonstrates best practices in web development, accessibility, and ethical design, making it a valuable resource for movie enthusiasts and a showcase of effective React development.
 
-## Available Scripts
 
 In the project directory, you can run:
 
